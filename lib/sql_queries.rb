@@ -5,7 +5,3 @@
 # end
 
 # Make sure each ruby method returns a string containing a valid SQL statement.
-
-
-
-
